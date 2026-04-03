@@ -1,0 +1,39 @@
+# Astronomy
+lightkurve==2.5.1
+astropy>=6.0.0
+astroquery>=0.4.7
+
+# Core
+numpy==1.26.4
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly>=5.0.0 
+
+# ML
+scikit-learn==1.4.2
+scipy==1.11.4
+xgboost==2.0.3
+optuna==3.6.1
+imbalanced-learn==0.12.2
+
+# Explainability
+shap==0.44.1
+
+# Jupyter
+jupyter
+ipykernel
+notebook
+
+# Utils
+joblib
+tqdm
+
+# API
+fastapi
+uvicorn
+
+# App
+streamlit
